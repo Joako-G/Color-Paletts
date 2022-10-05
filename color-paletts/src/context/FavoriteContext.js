@@ -1,6 +1,6 @@
 import { createContext } from "react"
 
-export const FavoriteContext = createContext({
+export const FavoritesContext = createContext({
     favorites: [],
     setFavorites: () => {}
 })

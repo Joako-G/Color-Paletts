@@ -4,12 +4,3 @@
   width: 80%;
   text-align: center;
 }
-
-header {
-  padding: 50px;
-}
-
-.main-container {
-  display: flex;
-  flex-direction: row;
-}
